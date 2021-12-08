@@ -1,0 +1,7 @@
+aiohttp==3.5.4
+aioredis==1.2.0
+async-timeout==3.0.1
+gevent==1.4.0
+greenlet==0.4.15
+python-socketio==4.1.0
+
